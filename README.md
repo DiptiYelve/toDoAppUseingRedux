@@ -32,18 +32,18 @@ To get a local copy of the project up and running, follow these simple steps:
 
 2. Navigate to the project directory:
 
-  ```bash
-  cd toDoAppUseingRedux
+    ```bash
+    cd toDoAppUseingRedux
 
 
 3. Install dependencies:
 
-  ```bash
-  npm install
+      ```bash
+      npm install
 
 
 4. Start the development server:
 
-  ```bash
-  npm run dev
+        ```bash
+        npm run dev
 
