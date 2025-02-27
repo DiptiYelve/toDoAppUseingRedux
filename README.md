@@ -44,6 +44,6 @@ To get a local copy of the project up and running, follow these simple steps:
 
 4. Start the development server:
 
-        ```bash
-        npm run dev
+          ```bash
+          npm run dev
 
